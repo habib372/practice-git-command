@@ -9,5 +9,6 @@
 <body>
     <p>Practic  git command</p>
     <?php echo "Hello.. This is just practice command"; ?>
+    <h3>Look the changes</h3>
 </body>
 </html>
